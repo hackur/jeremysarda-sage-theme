@@ -2,7 +2,7 @@
   "name": "hackur/jeremysarda-sage-theme",
   "type": "wordpress-theme",
   "license": "MIT",
-  "description": "JeremySarda.com Wordpress Blog Theme",
+  "description": "JeremySarda.com Wordpress Theme",
   "homepage": "https://github.com/hackur/jeremysarda-sage-theme",
   "authors": [
     {
@@ -12,7 +12,7 @@
     }
   ],
   "keywords": [
-    "wordpress sage roots bootstrap bs4"
+    "wordpress sage roots bootstrap bs4 jeremysarda"
   ],
   "support": {
     "issues": "https://github.com/hackur/jeremysarda-sage-theme/issues"
