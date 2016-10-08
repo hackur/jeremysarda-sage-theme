@@ -1,27 +1,21 @@
 {
-  "name": "roots/sage",
+  "name": "hackur/jeremysarda-sage-theme",
   "type": "wordpress-theme",
   "license": "MIT",
-  "description": "WordPress starter theme with a modern development workflow",
-  "homepage": "https://roots.io/sage/",
+  "description": "JeremySarda.com Wordpress Blog Theme",
+  "homepage": "https://github.com/hackur/jeremysarda-sage-theme",
   "authors": [
     {
-      "name": "Ben Word",
-      "email": "ben@benword.com",
-      "homepage": "https://github.com/retlehs"
-    },
-    {
-      "name": "Scott Walkinshaw",
-      "email": "scott.walkinshaw@gmail.com",
-      "homepage": "https://github.com/swalkinshaw"
+      "name": "Jeremy Sarda",
+      "email": "jcsarda@gmail.com",
+      "homepage": "https://jeremysarda.com"
     }
   ],
   "keywords": [
-    "wordpress"
+    "wordpress sage roots bootstrap bs4"
   ],
   "support": {
-    "issues": "https://github.com/roots/sage/issues",
-    "forum": "https://discourse.roots.io/"
+    "issues": "https://github.com/hackur/jeremysarda-sage-theme/issues"
   },
   "autoload": {
     "psr-4": {
